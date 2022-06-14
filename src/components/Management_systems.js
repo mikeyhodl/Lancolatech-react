@@ -1,6 +1,4 @@
-import "./styles.css";
-
-export default function App() {
+export default function Management_systems() {
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>

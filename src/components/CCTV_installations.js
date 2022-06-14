@@ -1,6 +1,4 @@
-import "./styles.css";
-
-export default function App() {
+export default function CCTV_installations() {
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>
